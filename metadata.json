@@ -1,0 +1,5 @@
+{
+  "name": "Conformal Mapping Visualizer",
+  "description": "F(z) = e * (sqrt(z) + 1) / (sqrt(z) - 1)",
+  "requestFramePermissions": []
+}
